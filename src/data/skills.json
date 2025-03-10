@@ -1,5 +1,29 @@
 [
   {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "Pandas",
+    "imageSrc": "skills/pandas.jpg"
+  },
+  {
+    "title": "C++",
+    "imageSrc": "skills/CPlusPlus.png"
+  },
+  {
+    "title": "C#",
+    "imageSrc": "skills/CSharp.png"
+  },
+  {
+    "title": ".NET",
+    "imageSrc": "skills/ASPNet1.png"
+  },
+  {
+    "title": "JS",
+    "imageSrc": "skills/JS.png"
+  },
+  {
     "title": "HTML",
     "imageSrc": "skills/html.png"
   },
@@ -16,15 +40,19 @@
     "imageSrc": "skills/node.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
-  },
-  {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
   },
   {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
+    "title": "SQL",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "MIPS",
+    "imageSrc": "skills/mips.png"
+  },
+  {
+    "title": "Scripting",
+    "imageSrc": "skills/Scripting.png"
   }
 ]

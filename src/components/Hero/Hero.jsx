@@ -12,8 +12,8 @@ export const Hero = () => {
           I'm a student at Weber State University studying Computer Science. I have 3 years of experience using Python and
           Pandas, automating tasks for a private school in Utah.
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
-          Contact Me
+        <a href="mailto:Zekeporter.19@email.com" className={styles.contactBtn}>
+          Email: Zekeporter.19@gmail.com
         </a>
       </div>
       <img

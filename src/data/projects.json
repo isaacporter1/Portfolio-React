@@ -1,26 +1,34 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "Data Pipeline Automation",
+    "imageSrc": "projects/PythonPandas.jpg",
+    "description": "Automated the process of manipulating data from the Student Information System's API to then uplaod to applications. This dealt with things like absent notices for the school and constant updates to management software like Google Workspace.",
+    "skills": ["Python", "Pandas", "ChomeDriver"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": ""
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "title": "YouTube Data Machine Learning Model",
+    "imageSrc": "projects/MachineLearning.jpg",
+    "description": "This was to predict \"views\" based on certain key factors in a video like length, title, genre, subscriber count, etc. (This was for my Machine Learning Course at Weber State using my interest in the video game \"Rocket League\")",
+    "skills": ["Python", "NumPy", "Matplotlib", "Sklearn", "YouTube Data API"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/isaacporter1/Youtube-Data-API"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "RV Park Management Software",
+    "imageSrc": "projects/rvpark.jpg",
+    "description": "Created a mock RV Park Management Software for the RV Park on Hill Air Force Base for a Weber State Course.",
+    "skills": ["Express JS", "MySQL"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/isaacporter1/RVPark-Management"
+  },
+  {
+    "title": "Discord Bot",
+    "imageSrc": "projects/DiscordBot.png",
+    "description": "Developed a Discord \"Bot\" that will give recommendations on \"Places to Eat\" around a Zip Code that is inputted by the user. The bot also does various other things, like store and send information regarding our Esports Club at Weber State.",
+    "skills": ["Discord JS", "Node JS", "JavaScript", "MongoDB", "APIs"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/isaacporter1/Discord-Bot"
   }
 ]

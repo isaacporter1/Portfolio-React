@@ -1,29 +1,44 @@
 [
   {
     "role": "Software Engineer",
-    "organisation": "Google",
-    "startDate": "Sept, 2022",
-    "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-    "imageSrc": "history/google.png"
-  },
-  {
-    "role": "UI Designer",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
-    "imageSrc": "history/microsoft.png"
-  },
-  {
-    "role": "SWE Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
+    "organization": "Hill AFB",
+    "startDate": "May, 2025",
+    "endDate": "Future",
     "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
+      "C++"
     ],
-    "imageSrc": "history/netflix.png"
+    "imageSrc": "history/hillafb.jpg"
+  },
+  {
+    "role": "Computer Lab Assistant",
+    "organization": "Weber State University",
+    "startDate": "Jan, 2025",
+    "endDate": "Present",
+    "experiences": [
+      "Troubleshot PCs, Monitors, and Printers for their various issues"
+    ],
+    "imageSrc": "history/wsu.png"
+  },
+  {
+    "role": "Data Automation Engineer",
+    "organization": "Syracuse Arts Academy",
+    "startDate": "Dec, 2021",
+    "endDate": "Jul, 2024",
+    "experiences": [
+      "Automated Attendance and other notices that went out to parents/guardians", 
+      "Automated and Managed Rosters for online programs for the students and teachers"
+    ],
+    "imageSrc": "history/SAA.png"
+  },
+  {
+    "role": "Sales Associate",
+    "organization": "Minky Couture",
+    "startDate": "Mar, 2019",
+    "endDate": "Dec, 2021",
+    "experiences": [
+      "Sold and Stocked Merchandise",
+      "Managed Inventory"
+    ],
+    "imageSrc": "history/minky.png"
   }
 ]
