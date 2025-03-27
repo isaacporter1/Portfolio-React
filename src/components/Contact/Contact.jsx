@@ -26,6 +26,10 @@ export const Contact = () => {
           <img src={getImageUrl("contact/githubIcon.png")} alt="Github icon" />
           <a href="https://github.com/isaacporter1" target="_blank" rel="noopener noreferrer">github.com/Isaacporter1</a>
         </li>
+        <li className={styles.link}>
+          <img src={getImageUrl("contact/leetcodeIcon.png")} alt="LeetCode icon" />
+          <a href="https://leetcode.com/u/Isaac22202" target="_blank" rel="noopener noreferrer">leetcode.com/Isaacporter1</a>
+        </li>
       </ul>
     </footer>
   );
