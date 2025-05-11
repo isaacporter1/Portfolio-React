@@ -23,7 +23,7 @@ export const Projects = () => {
         effect={'coverflow'}
         grabCursor={true}
         centeredSlides={true}
-        slidesPerView={3}
+        slidesPerView={"auto"}
         loop={true}
         coverflowEffect={{
           rotate: 50,
@@ -39,6 +39,18 @@ export const Projects = () => {
         pagination={true}
         navigation={true}
         modules={[Autoplay, EffectCoverflow, Pagination, Navigation]}
+        breakpoints={{
+          // When window width is <= 768px (mobile view)
+          768: {
+            slidesPerView: 1,  // Show 1 slide
+            spaceBetween: 10,  // Optional, adjust spacing between slides
+          },
+          // When window width is > 768px (tablet/desktop view)
+          769: {
+            slidesPerView: 3,  // Show 3 slides
+            spaceBetween: 20,  // Optional, adjust spacing between slides
+          },
+        }}
       >
         {projects.map((project, id) => {
           return <SwiperSlide /*className={`${styles.mySwiperSlide} ${activeSlideIndex === id ? styles.activeSlide : ''}`}*/
