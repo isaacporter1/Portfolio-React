@@ -34,6 +34,8 @@
 .mySwiper {
   width: 100%;
   padding: 60px 0;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .swiper {
@@ -53,21 +55,15 @@
   height: 300px;
 } */
 
-.swiper-slide {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: auto;
-  height: auto;
-  transition: filter 0.3s ease; /* Smooth transition for blur effect */
+:global(.swiper-slide) {
+  filter: blur(3px);
+  transition: filter 2s ease, transform 2s ease;
 }
 
-.swiper-slide:not(.swiper-slide-active) {
-  filter: blur(50px) !important;
-}
-
-.swiper-slide-active {
-  filter: blur(0) !important;
+/* Active slide with no blur */
+:global(.swiper-slide-active) {
+  filter: blur(0px);
+  transition: transform 250ms ease-in-out, filter 250ms ease-out;
 }
 
 .swiper-slide img {
