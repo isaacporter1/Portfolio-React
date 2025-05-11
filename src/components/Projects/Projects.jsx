@@ -34,6 +34,7 @@ export const Projects = () => {
       <h2 className={styles.title}>Projects</h2>
       <>
         <Swiper
+          className={styles.mySwiper}
           effect={'coverflow'}
           grabCursor={true}
           centeredSlides={true}
@@ -49,7 +50,6 @@ export const Projects = () => {
           pagination={true}
           navigation={true}
           modules={[EffectCoverflow, Pagination, Navigation]}
-          className="mySwiper"
         >
           {projects.map((project, id) => {
             return <SwiperSlide key={id}> <ProjectCard project={project} /> </SwiperSlide>;

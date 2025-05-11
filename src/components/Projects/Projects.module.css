@@ -10,8 +10,7 @@
 .container {
   margin: 76px auto;
   color: var(--color-text);
-  max-width: 1400px;
-  box-sizing: content-box;
+  max-width: 1350px;
 }
 
 .title {
@@ -19,10 +18,10 @@
   font-weight: 700;
   letter-spacing: 1.75px;
   text-transform: uppercase;
-  padding-bottom: 40px;
 }
 
 .projects {
+  padding-top:100px;
   margin-top: 37px;
   display: flex;
   flex-direction: row;
@@ -54,21 +53,20 @@
   height: 300px;
 } */
 
-.swiper-slide * {
+.swiper-slide {
   display: flex;
   justify-content: center;
   align-items: center;
   width: auto;
   height: auto;
   transition: filter 0.3s ease; /* Smooth transition for blur effect */
-  filter: blur(3px) !important;
 }
 
-.swiper-slide:not(.swiper-slide-active) * {
-  filter: blur(20px) !important;
+.swiper-slide:not(.swiper-slide-active) {
+  filter: blur(50px) !important;
 }
 
-.swiper-slide-active * {
+.swiper-slide-active {
   filter: blur(0) !important;
 }
 
