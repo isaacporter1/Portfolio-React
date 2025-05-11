@@ -1,10 +1,17 @@
 @import "../../vars.css";
 
-.container {
+/* .container {
   margin-top: 76px;
   color: var(--color-text);
   margin-left: 10%;
   margin-right: 10%;
+} */
+
+.container {
+  margin: 76px auto;
+  color: var(--color-text);
+  max-width: 1400px;
+  box-sizing: content-box;
 }
 
 .title {
@@ -12,6 +19,7 @@
   font-weight: 700;
   letter-spacing: 1.75px;
   text-transform: uppercase;
+  padding-bottom: 40px;
 }
 
 .projects {
@@ -21,6 +29,50 @@
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  gap: 15px;
+  width: 100%;
+}
+
+.mySwiper {
+  width: 100%;
+  padding: 60px 0;
+}
+
+.swiper {
+  overflow: visible; /* Allows part of side slides to peek out */
+}
+
+/* .swiper {
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+} */
+
+/* .swiper-slide {
+  background-position: center;
+  background-size: cover;
+  width: 300px;
+  height: 300px;
+} */
+
+.swiper-slide * {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+  height: auto;
+  transition: filter 0.3s ease; /* Smooth transition for blur effect */
+  filter: blur(3px) !important;
+}
+
+.swiper-slide:not(.swiper-slide-active) * {
+  filter: blur(20px) !important;
+}
+
+.swiper-slide-active * {
+  filter: blur(0) !important;
+}
+
+.swiper-slide img {
+  display: block;
   width: 100%;
 }

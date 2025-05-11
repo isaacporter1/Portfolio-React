@@ -10,7 +10,7 @@
   {
     "title": "Data Pipeline Automation",
     "imageSrc": "projects/PythonPandas.jpg",
-    "description": "Automated the process of manipulating data from the Student Information System's API to then uplaod to applications. This dealt with things like absent notices for the school and constant updates to management software like Google Workspace.",
+    "description": "Automated the process of manipulating data from the Student Information System's API to then upload to applications. This dealt with things like absent notices for the school and constant updates to management software like Google Workspace.",
     "skills": ["Python", "Pandas", "ChomeDriver"],
     "demo": "https://www.example.com",
     "source": ""
