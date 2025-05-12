@@ -33,7 +33,7 @@ export const Projects = () => {
           slideShadows: true, //work
         }}
         autoplay={{
-          delay: 5000,
+          delay: 14000,
           disableOnInteraction: false,
         }}
         pagination={true}
