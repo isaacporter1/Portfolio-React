@@ -20,15 +20,24 @@ export const About = () => {
             </div>
           </li> */}
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/rl.png")} alt="Server icon" />
+            <img src={getImageUrl("about/gamecontroller.png")} alt="Game Controller icon" />
             <div className={styles.aboutItemText}>
               <h3>Gamer</h3>
               <p>
-                I love Video Games. I played for Weber State's "Rocket League" team.
+                I love Video Games.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
+            <img src={getImageUrl("about/rl.png")} alt="RL icon" />
+            <div className={styles.aboutItemText}>
+              <h3>Collegiate Esports</h3>
+              <p>
+                I played for Weber State's "Rocket League" team.
+              </p>
+            </div>
+          </li>
+          {/* <li className={styles.aboutItem}>
             <img src={getImageUrl("about/youtube.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
               <h3>YouTube</h3>
@@ -36,7 +45,16 @@ export const About = () => {
                 I run a YouTube channel for certain Video Games. It currently has around 2400 subscribers.
               </p>
             </div>
-          </li>
+          </li> */}
+          {/* <li className={styles.aboutItem}>
+            <img src={getImageUrl("about/runner.png")} alt="Runner icon" />
+            <div className={styles.aboutItemText}>
+              <h3>YouTube</h3>
+              <p>
+                I am a runner.
+              </p>
+            </div>
+          </li> */}          
         </ul>
       </div>
     </section>
