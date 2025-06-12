@@ -19,7 +19,7 @@ export const About = () => {
               </p>
             </div>
           </li> */}
-          <li className={styles.aboutItem}>
+          {/* <li className={styles.aboutItem}>
             <img src={getImageUrl("about/gamecontroller.png")} alt="Game Controller icon" />
             <div className={styles.aboutItemText}>
               <h3>Gamer</h3>
@@ -27,13 +27,22 @@ export const About = () => {
                 I love Video Games.
               </p>
             </div>
-          </li>
+          </li> */}
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/rl.png")} alt="RL icon" />
             <div className={styles.aboutItemText}>
               <h3>Collegiate Esports</h3>
               <p>
                 I played for Weber State's "Rocket League" team.
+              </p>
+            </div>
+          </li>
+          <li className={styles.aboutItem}>
+            <img src={getImageUrl("about/wsu.png")} alt="Weber State Logo" />
+            <div className={styles.aboutItemText}>
+              <h3>B.S. in Computer Science</h3>
+              <p>
+                Graduated Summa Cum Laude from Weber State University.
               </p>
             </div>
           </li>
@@ -54,7 +63,7 @@ export const About = () => {
                 I am a runner.
               </p>
             </div>
-          </li> */}          
+          </li> */}
         </ul>
       </div>
     </section>
