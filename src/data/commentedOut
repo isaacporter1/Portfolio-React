@@ -7,5 +7,16 @@
       "C++"
     ],
     "imageSrc": "history/hillafb.jpg"
-  }
+  },
+  {
+    "role": "Data Automation Engineer",
+    "organization": "Syracuse Arts Academy",
+    "startDate": "Dec, 2021",
+    "endDate": "Jul, 2024",
+    "experiences": [
+      "Automated Attendance and other notices that went out to parents/guardians", 
+      "Automated and Managed Rosters for online programs for the students and teachers"
+    ],
+    "imageSrc": "history/SAA.png"
+}
 ]
