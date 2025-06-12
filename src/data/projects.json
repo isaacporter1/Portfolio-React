@@ -26,7 +26,7 @@
   {
     "title": "Discord Bot",
     "imageSrc": "projects/DiscordBot.png",
-    "description": "Developed a Discord \"Bot\" that will give recommendations on \"Places to Eat\" around a Zip Code that is inputted by the user. The bot also does various other things, like store and send information regarding our Esports Club at Weber State.",
+    "description": "Developed a Discord \"Bot\" that will give recommendations on \"Places to Eat\" that are inputted by the user. The bot also does various other things, like store and send information regarding our Esports Club at Weber State.",
     "skills": ["Discord JS", "Node JS", "JavaScript", "MongoDB", "APIs"],
     "demo": "https://www.example.com",
     "source": "https://github.com/isaacporter1/Discord-Bot"
