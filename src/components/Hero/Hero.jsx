@@ -9,7 +9,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Isaac Porter</h1>
         <p className={styles.description}>
-          I graduated Summa Cum Laude from Weber State University with a B.S. in Computer Science. I have 3 years of experience using Python and
+          I graduated with highest honors from Weber State University with a B.S. in Computer Science. I have 3 years of experience using Python and
           Pandas, automating tasks for a charter school in Utah.
         </p>
         <a href="mailto:Zekeporter.19@email.com" className={styles.contactBtn}>
