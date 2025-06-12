@@ -19,7 +19,7 @@
     "title": "YouTube Data Machine Learning Model",
     "imageSrc": "projects/MachineLearning.jpg",
     "description": "This was to predict \"views\" based on certain key factors in a video like length, title, genre, subscriber count, etc. (This was for my Machine Learning Course at Weber State using my interest in the video game \"Rocket League\")",
-    "skills": ["Python", "NumPy", "Matplotlib", "Sklearn", "TensorFlow", "YouTube Data API"],
+    "skills": ["Python", "NumPy", "Matplotlib", "Sklearn", "YouTube Data API"],
     "demo": "https://www.example.com",
     "source": "https://github.com/isaacporter1/Youtube-Data-API"
   },

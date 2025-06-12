@@ -8,6 +8,14 @@
     "imageSrc": "skills/pandas.jpg"
   },
   {
+    "title": "SKLearn",
+    "imageSrc": "skills/sklearn.png"
+  },
+  {
+    "title": "TensorFlow",
+    "imageSrc": "skills/tensorflow.png"
+  },
+  {
     "title": "C++",
     "imageSrc": "skills/CPlusPlus.png"
   },
