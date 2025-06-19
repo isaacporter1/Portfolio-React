@@ -19,4 +19,24 @@
     ],
     "imageSrc": "history/SAA.png"
 }
+  {
+    "title": "PowerBi",
+    "imageSrc": "skills/PowerBi.png"
+  },
+  {
+    "title": "Matplotlib",
+    "imageSrc": "skills/matplotlib.png"
+  },
+  {
+    "title": "Seaborn",
+    "imageSrc": "skills/seaborn.png"
+  },
+  {
+    "title": "AWS",
+    "imageSrc": "skills/aws.png"
+  },
+  {
+    "title": "Azure",
+    "imageSrc": "skills/azure.png"
+  },
 ]

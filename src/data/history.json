@@ -10,13 +10,14 @@
     "imageSrc": "history/wsu.png"
   },
   {
-    "role": "IT Specialist",
+    "role": "Data Automation Engineer - IT",
     "organization": "Syracuse Arts Academy",
     "startDate": "Dec, 2021",
     "endDate": "Jul, 2024",
     "experiences": [
-      "Automated Attendance and other notices that went out to parents/guardians", 
-      "Automated and Managed Rosters for online programs for the students and teachers"
+      "Automated daily absence and account balance notifications to parents using Python scripts and the Student Information System (SIS) API, reducing manual staff workload.",
+      "Managed and automated student and teacher rosters for online learning tools (e.g., Google Workspace, Verkada, Clever, etc.) via scheduled scripts, data manipulation, and CSV integrations.",
+      "Maintained and deployed scripts on Windows environments using WinSCP, ChromeDriver, and Bash for consistent updates and data accuracy."
     ],
     "imageSrc": "history/SAA.png"
   },

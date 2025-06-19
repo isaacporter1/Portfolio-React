@@ -46,6 +46,16 @@ export const About = () => {
               </p>
             </div>
           </li>
+          <li className={styles.aboutItem}>
+            <img src={getImageUrl("about/CloudComputing.png")} alt="Weber State Logo" />
+            <div className={styles.aboutItemText}>
+              <h3>Certifications</h3> {/*Cloud Computing Certifications or Cloud Certifications for Data Science, Cloud & Data Science Certifications, Cloud Platforms & Data Science Certifications, Cloud AI & Machine Learning Certifications*/}
+              <ul>
+                <li>Certificate of Proficiency in Programming - Weber State University</li>
+                {/* <li>Azure Fundamentals - Azure</li> */}
+              </ul>
+            </div>
+          </li>
           {/* <li className={styles.aboutItem}>
             <img src={getImageUrl("about/youtube.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>

@@ -28,9 +28,11 @@ export const ProjectCard = ({
         {/* <a href={demo} className={styles.link}>
           Demo
         </a> */}
+        {source !== "none" && (
         <a href={source} className={styles.link} target="_blank" rel="noopener noreferrer">
           Source
         </a>
+        )}
       </div>
     </div>
   );

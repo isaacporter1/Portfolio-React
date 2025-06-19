@@ -8,18 +8,18 @@
     "source": "https://github.com/isaacporter1/RVPark-Management"
   },
   {
-    "title": "Data Pipeline Automation",
+    "title": "SIS API Integration and Data Workflow Automation",
     "imageSrc": "projects/PythonPandas.jpg",
     "description": "Automated the process of manipulating data from the Student Information System's API to then upload to applications. This dealt with things like absent notices for the school and constant updates to management software like Google Workspace.",
-    "skills": ["Python", "Pandas", "ChomeDriver"],
-    "demo": "https://www.example.com",
+    "skills": ["Python", "Pandas", "ChomeDriver", "WinSCP", "Bash", "APIs", "Automation / Scripting", "JSON / XML", "ETL", "Task Scheduler"],
+    "demo": "None",
     "source": ""
   },
   {
     "title": "YouTube Data Machine Learning Model",
     "imageSrc": "projects/MachineLearning.jpg",
     "description": "This was to predict \"views\" based on certain key factors in a video like length, title, genre, subscriber count, etc. (This was for my Machine Learning Course at Weber State using my interest in the video game \"Rocket League\")",
-    "skills": ["Python", "NumPy", "Matplotlib", "Sklearn", "YouTube Data API"],
+    "skills": ["Python", "NumPy", "Sklearn", "YouTube Data API", "Matplotlib", "Seaborn"],
     "demo": "https://www.example.com",
     "source": "https://github.com/isaacporter1/Youtube-Data-API"
   },
@@ -35,8 +35,8 @@
     "title": "Trackmate - Department Operations Tool",
     "imageSrc": "projects/Trackmate.png",
     "description": "Trackmate is a full-stack internal web application designed to help academic departments manage their daily operations. It tracks requisitions, purchase orders, and invoices; monitors employee training completions; and allows viewing and printing of detailed room and class schedules across semesters.",
-    "skills": ["JavaScript", "TypeScript", "MongoDB", "Express", "React", "Node.js", "Tailwind CSS"],
+    "skills": ["JavaScript", "TypeScript (partial)", "Mongoose", "MongoDB", "Express", "React", "Node.js", "REST APIs","Tailwind CSS","Linux", "Crontab", "Nginx", "PM2", "Git", "JWT Authentication"],
     "demo": "https://www.example.com",
-    "source": ""
+    "source": "None"
   }
 ]

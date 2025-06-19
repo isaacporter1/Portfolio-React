@@ -16,6 +16,14 @@
     "imageSrc": "skills/tensorflow.png"
   },
   {
+    "title": "Tableau",
+    "imageSrc": "skills/tableau.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sql2.png"
+  },
+  {
     "title": "C++",
     "imageSrc": "skills/CPlusPlus.png"
   },
@@ -50,10 +58,6 @@
   {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
-  },
-  {
-    "title": "SQL",
-    "imageSrc": "skills/mysql.png"
   },
   {
     "title": "MIPS",
