@@ -20,6 +20,14 @@
     "imageSrc": "skills/tableau.png"
   },
   {
+    "title": "Matplotlib",
+    "imageSrc": "skills/matplotlib.png"
+  },
+  {
+    "title": "Seaborn",
+    "imageSrc": "skills/seaborn.png"
+  },
+  {
     "title": "SQL",
     "imageSrc": "skills/sql2.png"
   },
