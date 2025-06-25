@@ -13,7 +13,7 @@ export const Hero = () => {
           Pandas, automating tasks for a charter school in Utah.
         </p> */}
         <p className={styles.description}>
-          Bachelors of Science in Computer Science from Weber State University. With 3 years of experience using Python and
+          Bachelor of Science in Computer Science from Weber State University. With 3 years of experience using Python and
           Pandas, automating data tasks for a charter school in Utah.
         </p>
         <a href="mailto:Zekeporter.19@email.com" className={styles.contactBtn}>
