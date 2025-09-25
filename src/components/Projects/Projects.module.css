@@ -11,6 +11,9 @@
   margin: 76px auto;
   color: var(--color-text);
   max-width: 1350px;
+  margin-top: 79px;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
 .title {

@@ -1,5 +1,17 @@
 [
   {
+    "role": "Freelance Software Consultant",
+    "organization": "Syracuse Arts Academy",
+    "startDate": "Aug, 2025",
+    "endDate": "Sep, 2025",
+    "experiences": [
+      "Developed and maintained automation scripts to enhance data transfer between internal systems and external programs.",
+      "Identified and resolved workflow issues, improving reliability and minimizing manual intervention.",
+      "Collaborated with staff and outside application support to optimize processes, ensuring scripts met evolving business/formatting needs."
+    ],
+    "imageSrc": "history/SAA.png"
+  },  
+  {
     "role": "Computer Lab Assistant",
     "organization": "Weber State University",
     "startDate": "Dec, 2024",

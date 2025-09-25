@@ -14,7 +14,8 @@ export const Hero = () => {
         </p> */}
         <p className={styles.description}>
           Bachelor of Science in Computer Science from Weber State University. With 3 years of experience using Python and
-          Pandas, automating data tasks for a charter school in Utah.
+           Pandas, automating data tasks for a charter school in Utah. {/*Aspiring Software Developer with strong foundations in data automation, scripting, and full-stack development. Known
+           for streamlining operations across education environments and delivering practical tools using Python and React. */}
         </p>
         <a href="mailto:Zekeporter.19@email.com" className={styles.contactBtn}>
           Email: Zekeporter.19@gmail.com
