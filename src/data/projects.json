@@ -38,5 +38,13 @@
     "skills": ["JavaScript", "TypeScript (partial)", "Mongoose", "MongoDB", "Express", "React", "Node.js", "REST APIs","Tailwind CSS","Linux", "Crontab", "Nginx", "PM2", "Git", "JWT Authentication"],
     "demo": "https://www.example.com",
     "source": "None"
+  },
+  {
+    "title": "ClashTracker - Clash of Clans Data Tracker",
+    "imageSrc": "projects/clashofclans.png",
+    "description": "ClashTracker is a web application that connects to Clash of Clan's API to give you statistics on players, clans, and other data.",
+    "skills": ["TypeScript", "Next.js (App Router)", "Node.js", "ESLint", "REST APIs","Tailwind CSS", "Git", "Vercel", "Neon (Serverless PostgreSQL)"],
+    "demo": "https://clashtracker-6zn39n3t5-isaac-porters-projects.vercel.app/tracker",
+    "source": "None"
   }
 ]
