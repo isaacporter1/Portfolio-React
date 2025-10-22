@@ -20,6 +20,10 @@
     "imageSrc": "skills/tableau.png"
   },
   {
+    "title": "PowerBI",
+    "imageSrc": "skills/PowerBi.png"
+  },
+  {
     "title": "Matplotlib",
     "imageSrc": "skills/matplotlib.png"
   },
