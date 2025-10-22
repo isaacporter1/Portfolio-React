@@ -119,6 +119,11 @@
     justify-content: center;
   }
 
+  .skill {
+    width: 120px;
+    text-align: center;
+  }
+
   .history {
     width: 100%;
     gap: 9px;
