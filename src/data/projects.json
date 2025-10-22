@@ -45,6 +45,6 @@
     "description": "ClashTracker is a web application that connects to Clash of Clan's API to give you statistics on players, clans, and other data.",
     "skills": ["TypeScript", "Next.js (App Router)", "Node.js", "ESLint", "REST APIs","Tailwind CSS", "Git", "Vercel", "Neon (Serverless PostgreSQL)"],
     "demo": "",
-    "source": "https://clashtracker-isaac-porters-projects.vercel.app/tracker"
+    "source": "https://clashtracker-6zn39n3t5-isaac-porters-projects.vercel.app/tracker"
   }
 ]
