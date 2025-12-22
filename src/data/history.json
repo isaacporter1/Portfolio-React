@@ -5,7 +5,9 @@
     "startDate": "Oct, 2025",
     "endDate": "Present",
     "experiences": [
-      "Developed and automated data pipelines to sync data between internal systems. (Salesforce, SIS, SQL Server)"    ],
+      "Developed and automated data pipelines to sync data between internal systems. (Salesforce, SIS, SQL Server)",
+      "WCAG 2.0 Level AA",
+      "Salesforce Data Flows"],
     "imageSrc": "history/davistech.png"
   },  
   {
