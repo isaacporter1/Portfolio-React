@@ -44,6 +44,14 @@
     "imageSrc": "skills/ASPNet1.png"
   },
   {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "title": "Salesforce Apex",
+    "imageSrc": "skills/salesforceapex.png"
+  },
+  {
     "title": "JS",
     "imageSrc": "skills/JS.png"
   },
@@ -114,6 +122,10 @@
   {
     "title": "Scripting",
     "imageSrc": "skills/Scripting.png"
+  },
+  {
+    "title": "Salesforce",
+    "imageSrc": "skills/salesforce.png"
   },
   {
     "title": "Confluence",
