@@ -1,4 +1,13 @@
 [
+    {
+    "role": "Systems Integration Analyst",
+    "organization": "Davis Tech",
+    "startDate": "Oct, 2025",
+    "endDate": "Present",
+    "experiences": [
+      "Developed and automated data pipelines to sync data between internal systems."    ],
+    "imageSrc": "history/SAA.png"
+  },  
   {
     "role": "Data Automation & Integration Engineer",
     "organization": "Syracuse Arts Academy - Freelance",
