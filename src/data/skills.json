@@ -88,6 +88,10 @@
     "imageSrc": "skills/git.png"
   },
   {
+    "title": "Github",
+    "imageSrc": "skills/github.png"
+  },
+  {
     "title": "SQL",
     "imageSrc": "skills/sql2.png"
   },
