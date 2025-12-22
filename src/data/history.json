@@ -5,7 +5,7 @@
     "startDate": "Oct, 2025",
     "endDate": "Present",
     "experiences": [
-      "Developed and automated data pipelines to sync data between internal systems. (Salesforce, SIS, SSIS)"    ],
+      "Developed and automated data pipelines to sync data between internal systems. (Salesforce, SIS, SQL Server)"    ],
     "imageSrc": "history/davistech.png"
   },  
   {
