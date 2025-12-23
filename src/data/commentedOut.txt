@@ -33,3 +33,5 @@
     "imageSrc": "skills/azure.png"
   },
 ]
+
+    "role": "Data Automation & Integration Engineer",
