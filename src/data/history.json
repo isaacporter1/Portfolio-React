@@ -1,19 +1,9 @@
 [
-  {
-    "role": "Software Engineer",
-    "organization": "Hill AFB",
-    "startDate": "March, 2026",
-    "endDate": "",
-    "experiences": [
-      "C++"
-    ],
-    "imageSrc": "history/hillafb.jpg"
-  },
     {
     "role": "Systems Integration Analyst",
     "organization": "Davis Tech",
     "startDate": "Oct, 2025",
-    "endDate": "Mar, 2026",
+    "endDate": "Present",
     "experiences": [
       "Data Engineering",
       "Developed and automated data pipelines to sync data between internal systems. (Salesforce, SIS, SQL Server)",

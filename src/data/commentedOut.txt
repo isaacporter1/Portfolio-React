@@ -1,13 +1,13 @@
-      {
+  {
     "role": "Software Engineer",
     "organization": "Hill AFB",
-    "startDate": "",
+    "startDate": "March, 2026",
     "endDate": "",
     "experiences": [
       "C++"
     ],
     "imageSrc": "history/hillafb.jpg"
-    },
+  },
   [{
     "role": "Software Engineer",
     "organization": "Hill AFB",
