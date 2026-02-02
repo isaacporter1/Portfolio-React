@@ -1,5 +1,9 @@
 [
   {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+  {
     "title": "Python",
     "imageSrc": "skills/python.png"
   },
@@ -42,10 +46,6 @@
   {
     "title": ".NET",
     "imageSrc": "skills/ASPNet1.png"
-  },
-  {
-    "title": "Java",
-    "imageSrc": "skills/java.png"
   },
   {
     "title": "Salesforce Apex",
