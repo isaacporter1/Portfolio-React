@@ -1,11 +1,21 @@
 [
-
+  {
+    "role": "Software Engineer",
+    "organization": "Hill AFB",
+    "startDate": "March, 2025",
+    "endDate": "",
+    "experiences": [
+      "C++"
+    ],
+    "imageSrc": "history/hillafb.jpg"
+  },
     {
     "role": "Systems Integration Analyst",
     "organization": "Davis Tech",
     "startDate": "Oct, 2025",
-    "endDate": "Present",
+    "endDate": "Mar, 2025",
     "experiences": [
+      "Data Engineering",
       "Developed and automated data pipelines to sync data between internal systems. (Salesforce, SIS, SQL Server)",
       "WCAG 2.0 Level AA",
       "Salesforce Data Flows"],
@@ -15,7 +25,7 @@
     "role": "Data Automation & Integration Developer",
     "organization": "Syracuse Arts Academy - Freelance",
     "startDate": "Aug, 2025",
-    "endDate": "Present",
+    "endDate": "Feb, 2025",
     "experiences": [
       "Developed and maintained automation scripts to enhance data transfer between internal systems and external programs.",
       "Identified and resolved workflow issues, improving reliability and minimizing manual intervention.",
